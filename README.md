@@ -4,11 +4,16 @@ This script doanlowads harmonized Landsat 8 & Sentinel 2 data via google colab
 
 
 ## Usage
-A great tutorial on using google colab can be found here: https://github.com/WiktorJ/google-colab-tutorial/blob/master/README.md
+# Google Colab 
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+This script is based on Google's Colab environment, which will let you run this code in the Google cloud via your browser. All you need is a Google account. 
 
-Please make sure to update tests as appropriate.
+### Creating New Colab Notebook
+
+* Open your Google Drive
+* Create a new notebook via Right click > More > Colaboratory
+
+
+
 
 
